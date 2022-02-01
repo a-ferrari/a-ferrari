@@ -1,4 +1,4 @@
- I’m @a-ferrari, Alberto Ferrari, IT consultant, programmer, blockchain and linux addicted
+ I’m @a-ferrari, Alberto Ferrari, IT consultant, programmer, blockchain and linux addicted, I work at Thesis srl
 
 - 📫 ferrari@thesis-srl.com
 
